@@ -9,7 +9,6 @@ while i<=num:
     i+=1
 print(out)
 
-
 2)WAP TO DISPLAY THE PERFECT NUMBER
 num = int(input("Enter the number: "))
 i = 1
