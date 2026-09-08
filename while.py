@@ -33,7 +33,6 @@ while i<=num:
     a,b=b,a+b
     i+=1
 '''
-
 #WAP TO CONSIDER A HOMOGGENEUS TUPLE OF INTEGERS AND DIVIDE 
 #IT TO 2 OUTPUTS LIKE EVEN AND ODD
 
